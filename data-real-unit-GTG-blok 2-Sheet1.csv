@@ -1,5 +1,5 @@
 Data Distribusi Beban Merata PLTGU Blok 2,,,,,
-beban(MW,GT 2.1(mmbtu/jam),beban(MW),GT 2.2(mmbtu/jam),beban(MW),GT 2.3(mmbtu/jam)
+beban_MW,GT_2.1_mmbtu/jam,beban_MW,GT_2.2_mmbtu/jam,beban_MW,GT_2.3_mmbtu/jam
 10.000,195.067,10.000,194.838,10.000,194.629
 11.000,199.279,11.000,199.050,11.000,198.842
 12.000,203.500,12.000,203.271,12.000,203.063
